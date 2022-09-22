@@ -1,3 +1,3 @@
 Curso de analise de dados com R
 Plataforna Coursera
-Estatistica 20h Enap
+Estatistica 20h Enap concluido em 22/09/2022
