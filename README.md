@@ -7,3 +7,5 @@ Estudos na plataforma Dio
 Links úteis para estudo
 
 [Sintax Basic Markdown](https://www.markdownguide.org/basic-syntax/)
+[Estatistíca] (https://www.escolavirtual.gov.br/)
+
