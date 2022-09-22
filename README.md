@@ -1,5 +1,5 @@
 # Dio
-Primeiro repositório criado no GitHub
+Primeiro repositório criado no GitHub/
 Desafio de projetos com o Git/GitHub
 Estudos na plataforma Dio
 
